@@ -15,7 +15,7 @@ The course will help me with JOBS as well as Competitive Programming.
 
 
 
-##The Plan
+## The Plan
 
 
 2 hours each day for the course - watch videos, when done with videos, use the time to solve exercise.
